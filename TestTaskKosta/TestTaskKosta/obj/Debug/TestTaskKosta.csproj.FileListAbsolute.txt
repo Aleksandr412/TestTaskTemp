@@ -1,0 +1,14 @@
+E:\TestTaskKosta\TestTaskKosta\TestTaskKosta\bin\Debug\TestTaskKosta.exe.config
+E:\TestTaskKosta\TestTaskKosta\TestTaskKosta\bin\Debug\TestTaskKosta.exe
+E:\TestTaskKosta\TestTaskKosta\TestTaskKosta\bin\Debug\TestTaskKosta.pdb
+E:\TestTaskKosta\TestTaskKosta\TestTaskKosta\bin\Debug\Dapper.dll
+E:\TestTaskKosta\TestTaskKosta\TestTaskKosta\bin\Debug\Dapper.xml
+E:\TestTaskKosta\TestTaskKosta\TestTaskKosta\obj\Debug\TestTaskKosta.csprojAssemblyReference.cache
+E:\TestTaskKosta\TestTaskKosta\TestTaskKosta\obj\Debug\TestTaskKosta.Form1.resources
+E:\TestTaskKosta\TestTaskKosta\TestTaskKosta\obj\Debug\TestTaskKosta.Properties.Resources.resources
+E:\TestTaskKosta\TestTaskKosta\TestTaskKosta\obj\Debug\TestTaskKosta.csproj.GenerateResource.cache
+E:\TestTaskKosta\TestTaskKosta\TestTaskKosta\obj\Debug\TestTaskKosta.csproj.CoreCompileInputs.cache
+E:\TestTaskKosta\TestTaskKosta\TestTaskKosta\obj\Debug\TestTaskKosta.csproj.CopyComplete
+E:\TestTaskKosta\TestTaskKosta\TestTaskKosta\obj\Debug\TestTaskKosta.exe
+E:\TestTaskKosta\TestTaskKosta\TestTaskKosta\obj\Debug\TestTaskKosta.pdb
+E:\TestTaskKosta\TestTaskKosta\TestTaskKosta\bin\Debug\FastMember.dll
